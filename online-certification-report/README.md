@@ -1,5 +1,4 @@
-# Daily-report
-# daily-online-course-report
+# Online-course-report
 # day-1
 intoduction and Module-1 and Progress
 # day-2
