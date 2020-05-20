@@ -1,2 +1,2 @@
 # Daily-Report
-which includes all overall daily activity
+which includes overall daily activity
