@@ -10,7 +10,7 @@ We have to write a program in Java such that it creates a calculator which allow
 # PYTHON Program6
 Python program in number right angled triangle \
 sample output \
-enter the number of row \
+enter the number of rows \
 5 4 3 2 1 \
 4 3 2 1 \
 3 2 1 \
@@ -20,6 +20,6 @@ enter the number of row \
 C Program to create Singly Liked List with n elements and reverse the elements
 # SLL C Program3
 C program to construct a singly linked list by removing duplicate elements in the sorted linked list \
-Sample output:
+Sample output: \
 Given list {1,2,2,3,3,3,4} \
 Resulting list{4,3,2,1}
