@@ -1,6 +1,8 @@
 # JAVA Program4-RR
 java program to implement round robin scheduling algorithm.Calculate AVG WT AND TAT.
 INPUT:NO OF PROCESSES,BURST TIME AND TIME QUANTUM.
+# JAVA Program5
+a simple applet java program to check whether the given number is armstrong number or not.
 # JAVA program1
 Java Program to Demonstrate a Basic Calculator using Applet
 Problem Description
