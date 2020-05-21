@@ -11,11 +11,11 @@ We have to write a program in Java such that it creates a calculator which allow
 Python program in number right angled triangle
 sample output
 enter the number of roe
-5 4 3 2 1
-4 3 2 1
-3 2 1
-2 1
-1
+# 5 4 3 2 1
+# 4 3 2 1
+# 3 2 1
+# 2 1
+# 1
 # SLL C Program2
 C Program to create Singly Liked List with n elements and reverse the elements
 # SLL C Program3
