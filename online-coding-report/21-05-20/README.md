@@ -16,6 +16,9 @@ enter the number of rows \
 3 2 1 \
 2 1 \
 1 
+# PYTHON Program7
+menu program in Python to find Area-Circle, Circumference-Circle, Area- Square, Circumference-Square using functions with menu choice
+Create seperate functions for each choice of menu
 # SLL C Program2
 C Program to create Singly Liked List with n elements and reverse the elements
 # SLL C Program3
