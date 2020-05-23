@@ -9,3 +9,5 @@ Module-3 and Progress
 Module-4 and Progress
 # day-5
 Module-5 and Progress
+# day-6
+Final Exam report,Certificate and Badge
