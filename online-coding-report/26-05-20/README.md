@@ -1,5 +1,5 @@
 # C-Program
-# program in C to print all permutations of a given string using pointers\
+program in C to print all permutations of a given string using pointers\
 Input:\
 Enter the String: abcd\
 The permutations of the string are :\
