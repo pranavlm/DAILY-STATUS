@@ -3,4 +3,11 @@ Python Program to Print all Integers that Aren’t Divisible by Either 2 or 3 an
 Python Program to Check if a Number is a Palindrome \
 Python Program to Count the Number of Digits in a Number \
 Python Program to Read a Number n And Print the Series "1+2+…..+n= "
+# java program
+Given an array A of size N where the array elements contain values from 1 to N with duplicates, the task is to find total number of subarrays which start and end with the same element. \
+Examples: \
+Input: A[] = {1, 2, 1, 5, 2}\
+Output: 7\
+Explanation:\
+Total 7 sub-array of the given array are {1}, {2}, {1}, {5}, {2}, {1, 2, 1} and {2, 1, 5, 2} are start and end with same element.
 
