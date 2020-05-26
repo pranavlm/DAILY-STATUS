@@ -1,3 +1,8 @@
+# C-Program
+Input:\
+Enter the String: abcd\
+The permutations of the string are :\
+abcd abdc acbd acdb adcb adbc bacd badc bcad bcda bdca bdac cbad cbda cabd cadb cdab cdba dbca dbac dcba dcab dacb dabc
 # Python Programs
 Python Program to Print all Integers that Aren’t Divisible by Either 2 or 3 and Lie between 1 and 50 \
 Python Program to Check if a Number is a Palindrome \
