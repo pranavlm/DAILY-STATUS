@@ -5,4 +5,6 @@ Take a string as input and find the number of uppercase and lower case letters i
 Note: any spaces has to be ignored\
 Eg: string is : 'This is Python'\
 Upper case characters : 2\
-Lower case characters : 10\
+Lower case characters : 10
+# P-2
+
