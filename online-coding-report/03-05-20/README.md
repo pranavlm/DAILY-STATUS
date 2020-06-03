@@ -16,4 +16,4 @@ elif construct without using and operator for finding the range.
 Take a list of length 3 containing integers, find out which is larger, first or last one and set all the elements
 in the list to be that value. Print the updated list.
 # P-8
-python program to generate prime number in an interval 
+python program to generate prime number in an interval. 
