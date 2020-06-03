@@ -13,7 +13,7 @@ Hyphen-Separated Sequence after Sorting them Alphabetically.
 Python Program to Take in the Marks of 5 Subjects and Display the Grade using if ... \
 elif construct without using and operator for finding the range.
 # P-7
-Take a list of length 3 containing integers, find out which is larger, first or last one and set all the elements\ 
+Take a list of length 3 containing integers, find out which is larger, first or last one and set all the elements
 in the list to be that value. Print the updated list.
 # P-8
 python program to generate prime number in an interval 
